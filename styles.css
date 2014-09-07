@@ -8,8 +8,6 @@ body {
   text-shadow: none;
   text-decoration: none;
   text-transform: uppercase;
-  letter-spacing: 0em;
-  word-spacing: 0em;
   line-height: 1.2;
   color: #F39;
   box-sizing: border-box;
@@ -40,6 +38,7 @@ h1 {
   padding: 0;
   text-align: right;
   width: 100%;
+  font-size: 3rem;
 }
 .languages, h2, h3 {
   color: #fff;
