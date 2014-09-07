@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Terminal Dosis Light', serif;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  text-shadow: none;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0em;
+  word-spacing: 0em;
+  line-height: 1.2;
+  color: #F39;
+  box-sizing: border-box;
+}
+a {
+  color: #F39;
+  cursor: pointer;
+}
+main {
+  display: block;
+  max-width: 800px;
+  margin: 0 auto;
+}
+.content {
+  margin: 1rem auto;
+  padding: 1rem;
+  border: 5px solid #f39;
+}
+section {
+  width: 100%;
+}
+footer {
+  font-size: 1rem;
+  text-align: center;
+}
+h1 {
+  margin: 0;
+  padding: 0;
+  text-align: right;
+  width: 100%;
+}
+.languages, h2, h3 {
+  color: #fff;
+  background: #f39;
+  background-image: linear-gradient(-45deg,rgba(255,255,255,.2)25%,transparent 25%,transparent 50%,rgba(255,255,255,.2)50%,rgba(255,255,255,.2)75%,transparent 75%,transparent);
+  background-size: 50px 50px;
+  margin: 0;
+  padding: 0;
+  text-align: right;
+  width: 100%;
+}
+h1, h2, h3, h1 a, h2 a, h3 a, .languages a {
+  background-color: #F39;
+  color: #fff;
+}
