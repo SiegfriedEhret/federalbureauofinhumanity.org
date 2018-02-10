@@ -1,0 +1,11 @@
+{
+  "name": "federalbureauofinhumanity",
+  "profile": "ehretdotme",
+  "type": "static",
+  "regions": ["eu-central-1"],
+  "stages": {
+    "development": {
+      "domain": "federalbureauofinhumanity.org"
+    }
+  }
+}
