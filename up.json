@@ -4,7 +4,7 @@
   "type": "static",
   "regions": ["eu-central-1"],
   "stages": {
-    "development": {
+    "production": {
       "domain": "federalbureauofinhumanity.org"
     }
   }
