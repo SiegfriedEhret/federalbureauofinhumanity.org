@@ -2,7 +2,10 @@
   "name": "federalbureauofinhumanity",
   "profile": "fbi",
   "type": "static",
-  "regions": ["eu-central-1"],
+  "regions": ["eu-central-1"], 
+  "lambda": {
+    "runtime": "nodejs12.x"
+  },
   "stages": {
     "production": {
       "domain": "federalbureauofinhumanity.org"
